@@ -1,2 +1,0 @@
-# sendbox
-Created with CodeSandbox
